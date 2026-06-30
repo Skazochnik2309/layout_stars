@@ -2,13 +2,6 @@ body {
   margin: 0;
 }
 
-.box {
-  /* width: 96px; */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
 .stars {
   display: flex;
   align-items: center;
